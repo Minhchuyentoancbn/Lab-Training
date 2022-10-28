@@ -3,7 +3,7 @@
 __Implementations of simple Machine Learning Algorithms:__
 - Ridge Regression
 - SVM, KMeans
-- Multi layer perceptron
+- Multi layers perceptron
 - RNN, LSTM
 - Alexnet
 - Hierarchical Attention Neural Network
